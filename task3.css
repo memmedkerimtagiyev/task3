@@ -1,0 +1,157 @@
+
+  body {
+    
+    margin: 0 auto;
+    
+  }
+  h1 {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  h2,p {
+    font-family: sans-serif;
+  }
+
+  *{
+    box-sizing: border-box;
+    margin: auto;
+  }
+  
+  .bax {
+    position: fixed;
+    width: 100%;
+    height: 1%;
+    background-color: brown;
+  }
+  
+  .navbar{
+    height: 4%;
+    width: 100%;
+    background-color:#212529;
+  }
+  .start{
+    font-size: larger;
+    margin-left: 5%;
+    display: inline-block;
+  }
+  .home {
+    font-size: larger;
+    margin-left: 60%;
+    display: inline-block;
+  }
+  .about {
+    font-size: larger;
+    margin-left: 2%;
+    display: inline-block;
+  }
+  .contact {
+    font-size: larger;
+    margin-top: 1.5%;
+    margin-left: 2%;
+    display: inline-block;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  .foto1 {
+    width: 100%;
+    height: 500px;
+  }
+  
+  .foto2{
+    border-radius: 50%;
+    top: 30%;
+    right: 0%;
+    left: 0%;
+    position: absolute;
+  }
+  .pics {
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .par1 {
+    font-size: larger;
+    color: #888282;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .full {
+    margin-top: 5%;
+    
+   
+  }
+  .par2 {
+    width: 450px;
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: rgb(100, 104, 104);
+  }
+  .par3{
+    width: 450px;
+    margin-left: 34.5%;
+    font-size: 1.2rem;
+    color: black;
+  }
+  
+  .foto3{
+    margin-top: 40px;
+    width: 100%;
+    height: 500px;
+  }
+  
+  .basliq2{
+    border: 1px solid white;
+    margin-left: 30%;
+  }
+  
+  .bas2{
+    font-size: 2rem;
+  
+    margin-top: 5%;
+  }
+  
+  .par4{
+    margin-right: 100%;
+    width: 350px;
+    border: 1px solid white;
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: rgb(75, 79, 79);
+  }
+  
+  .par5 {
+    margin-right: 100%;
+    width: 450px;
+    border: 1px solid white;
+    margin-bottom: 40px;
+    font-size: 1.2rem;
+    color: black;
+  }
+  
+  .soz{
+    font-size: 1.2rem;
+   
+    margin-top: 3.5%;
+  }
+  
+  .footer {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: white;
+    background-color: #212529;
+   
+    
+  }
+
+  
+  
+  
